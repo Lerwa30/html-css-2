@@ -1,0 +1,54 @@
+body, html {
+    margin: 0;
+    padding: 0;
+  }
+
+header {
+    background-color: lightgray;
+    box-sizing: border-box;
+    padding: 25px;
+}
+
+.square {
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    
+}
+
+section {
+    padding: 30px;
+}
+
+.one {
+    background-color: blue;
+    height: 25vh;
+}
+
+.two {
+    background-color: aquamarine;
+    height: 25vh;
+}
+
+.three {
+    background-color: lightgreen;
+    height: 25vh;
+}
+
+.four {
+    background-color: rgb(207, 207, 62);
+    height: 25vh;
+}
+
+
+
+button {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: black;
+    color: white;
+}
