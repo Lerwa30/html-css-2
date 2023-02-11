@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    background-color: lightgrey;
+}
+
+.topbox {
+    width: 100%;
+    height: 20vh;
+    background-color: #444444;
+}
+
+.mainbox {
+    background-color: whitesmoke;
+    margin: auto;
+    width: 75%;
+    height: 70vh;
+}
+
+.bottombox {
+    margin: auto;
+    background-color: black;
+    width: 75%;
+    height: 10vh;
+}
