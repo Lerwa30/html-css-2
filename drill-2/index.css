@@ -1,0 +1,47 @@
+header {
+    border: solid black;
+    display: flex;
+    box-sizing: border-box;
+    
+}
+
+.purplesq{
+    background-color: rgb(126, 10, 126);
+    height: 150px;
+    width: 50px;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+   
+}
+
+.greensq {
+    background-color: forestgreen;
+    height: 200px;
+    width: 350px;
+    margin: 10px 0 10px 100px
+
+}
+
+.bluecir {
+    background-color: lightblue;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    margin: 10px 0 10px 100px
+}
+
+section{
+    border: dotted black;
+    display: flex;
+    padding: 50px;
+    margin-top: 25px;
+   
+}
+
+.yellowbox {
+    background-color: lightyellow;
+    height: 150px;
+    width: 100%;
+    box-shadow: 10px 10px 10px;
+}
