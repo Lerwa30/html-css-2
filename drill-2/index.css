@@ -45,3 +45,21 @@ section{
     width: 100%;
     box-shadow: 10px 10px 10px;
 }
+
+footer {
+    border: solid grey;
+    box-shadow: 5px 5px 5px lightgrey;
+    margin: 25px auto;
+    height: 50vh;
+    width: 50%;
+    
+}
+
+p {
+    text-align: center;
+    font-size: 50pt;
+    color: purple;
+    width: 100%;
+    letter-spacing: 10px;
+    
+}
